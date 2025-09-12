@@ -13,6 +13,7 @@
 | Takuro Ashie | [ashie](https://github.com/ashie) | [ClearCode](https://www.clear-code.com/) | |
 | Kentaro Hayashi | [kenhys](https://github.com/kenhys) | [ClearCode](https://www.clear-code.com/) | kenhys |
 | Daijiro Fukuda | [daipom](https://github.com/daipom) | [ClearCode](https://www.clear-code.com/) | daipom |
+| Riaan Kleinhans | | | Riaankl |
 
 ## Sub Projects: Fluent Bit
 

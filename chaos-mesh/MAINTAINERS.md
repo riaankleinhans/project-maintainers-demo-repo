@@ -1,22 +1,22 @@
-This file lists the maintainers and committers of the Chaos Mesh project.
+This file lists the maintainers and committers of the Chaos Mesh project.
 
 In short, maintainers are people who are in charge of the maintenance of the Chaos Mesh project. Committers are active community members who have shown that they are committed to the continuous development of the project through ongoing engagement with the community. For detailed description of the roles, see [Chaos Mesh Governance](https://github.com/chaos-mesh/chaos-mesh/blob/master/GOVERNANCE.md).
 
 ## Maintainers
 
-The Maintainers of Chaos Mesh, along with their emails, are listed below:
+The Maintainers of Chaos Mesh, along with their emails, are listed below:
 
-| Name                                                       |  Email                                                  |  Org                                       | LFID         |
-| ---------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------ |--------------|
-| Cwen Yin ([cwen0](https://github.com/cwen0))               |  [cwen@pingcap.com](mailto:cwen@pingcap.com)            |  [PingCAP](https://www.pingcap.com/)       | cwenyin      |
-| Keao Yang ([YangKeao](https://github.com/YangKeao))        |  [yangkeao@pingcap.com](mailto:yangkeao@pingcap.com)    |  [PingCAP](https://www.pingcap.com/)       | yangkeao     |
-| Calvin Weng ([dcalvin](https://github.com/dcalvin))        |  [wenghao@pingcap.com](mailto:wenghao@pingcap.com)      |  [PingCAP](https://www.pingcap.com/)       | dcalvin      |
-| Zhiqiang Zhou ([STRRL](https://github.com/STRRL))          | [im@strrl.dev](mailto:im@strrl.dev)                     | Freelancer                                 | zhiqiangzhou |
-| Glen Yang ([g1eny0ung](https://github.com/g1eny0ung))      | [g1enyy0ung@gmail.com](mailto:g1enyy0ung@gmail.com)     | [EMQ](https://www.emqx.com/)               | g1eny0ung    |
+| Name           | Github | Org                                       | LFID         |
+| -------------- | ------ | ----------------------------------------- |--------------|
+| Cwen Yin       | [cwen0](https://github.com/cwen0) |  [PingCAP](https://www.pingcap.com/)       | cwenyin      |
+| Keao Yang      | [YangKeao](https://github.com/YangKeao) |  [PingCAP](https://www.pingcap.com/)       | yangkeao     |
+| Calvin Weng    | [dcalvin](https://github.com/dcalvin) |  [PingCAP](https://www.pingcap.com/)       | dcalvin      |
+| Zhiqiang Zhou  | [STRRL](https://github.com/STRRL) | Freelancer                                 | zhiqiangzhou |
+| Glen Yang      | [g1eny0ung](https://github.com/g1eny0ung) | [EMQ](https://www.emqx.com/)               | g1eny0ung    |
 
 ## Committers
 
-The Committers of Chaos Mesh, along with their emails, are listed below:
+The Committers of Chaos Mesh, along with their emails, are listed below:
 
 | Name                                                             | Email                                                                         | Org                                   |
 | ---------------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------------------------------- |
@@ -28,13 +28,13 @@ The Committers of Chaos Mesh, along with their emails, are listed below:
 
 The Emeritus Maintainers of Chaos Mesh, along with their emails, are listed below:
 
-| Name                                                          |  Email                                                  |  Org                                 |
+| Name                                                         |  Email                                                 |  Org                                 |
 | ------------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------ |
-| Siddon Tang ([siddontang](https://github.com/siddontang))     |  [tl@pingcap.com](mailto:tl@pingcap.com)                |  [PingCAP](https://www.pingcap.com/) |
-| Qiang Zhou ([zhouqiang-cl](https://github.com/zhouqiang-cl))  |  [zhouqiang@pingcap.com](mailto:zhouqiang@pingcap.com)  |  [PingCAP](https://www.pingcap.com/) |
-| Song Gao ([Yisaer](https://github.com/Yisaer))                |  [gaosong@pingcap.com](mailto:gaosong@pingcap.com)      |  [PingCAP](https://www.pingcap.com/) |
-| Ben Ye ([yeya24](https://github.com/yeya24))                  |  [yb532204897@gmail.com](mailto:yb532204897@gmail.com)  |  [AWS](https://aws.amazon.com/)      |
-| Hengliang Tan ([Gallardot](https://github.com/Gallardot))     |  [gallardot@apache.org](mailto:gallardot@apache.org)    |  [Xpeng Motors](https://www.xiaopeng.com/) |
+| Siddon Tang ([siddontang](https://github.com/siddontang))     |  [tl@pingcap.com](mailto:tl@pingcap.com)               |  [PingCAP](https://www.pingcap.com/) |
+| Qiang Zhou ([zhouqiang-cl](https://github.com/zhouqiang-cl))  |  [zhouqiang@pingcap.com](mailto:zhouqiang@pingcap.com)  |  [PingCAP](https://www.pingcap.com/) |
+| Song Gao ([Yisaer](https://github.com/Yisaer))               |  [gaosong@pingcap.com](mailto:gaosong@pingcap.com)     |  [PingCAP](https://www.pingcap.com/) |
+| Ben Ye ([yeya24](https://github.com/yeya24))                 |  [yb532204897@gmail.com](mailto:yb532204897@gmail.com)  |  [AWS](https://aws.amazon.com/)      |
+| Hengliang Tan ([Gallardot](https://github.com/Gallardot))    |  [gallardot@apache.org](mailto:gallardot@apache.org)   |  [Xpeng Motors](https://www.xiaopeng.com/) |
 
 ## Emeritus Committers
 

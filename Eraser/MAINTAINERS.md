@@ -7,4 +7,3 @@ Maintainers:
 | Ashna Mehrotra                      | @ashnamehrotra| ashnamehrotra |
 | Peter Engelbert                     | @pmengelbert  | pmengelbert   |
 | Brian Goff                          | @cpuguy83     | cpuguy83      |
-| Riaan | @riaankleinhans | Riaankl |
